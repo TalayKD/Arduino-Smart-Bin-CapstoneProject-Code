@@ -1,0 +1,2 @@
+# Arduino-Smart-Bin-CapstoneProject-Code
+This is the Arduino source code for my Capstone "Fun Bins for Change" Project. I built an automated waste bin to help develop students' waste disposal habits. The waste bin stores data on each student's homeroom and whether or not the student classifies waste correctly. Points are then awarded to their respective homerooms, encouraging students to dispose of waste correctly.
